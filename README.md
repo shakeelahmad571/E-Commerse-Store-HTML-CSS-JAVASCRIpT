@@ -48,7 +48,7 @@ TechGadgets/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone [YOUR_REPOSITORY_URL](https://github.com/shakeelahmad571/E-Commerse-Store-HTML-CSS-JAVASCRIpT)
 ```
 
 ### 2. Open the project
