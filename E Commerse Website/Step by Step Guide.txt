@@ -1,0 +1,29 @@
+
+index.html —  
+1. announcement bar, 
+2. navbar, 
+3. hero,
+4.  categories,
+5 . product grid,
+6.  footer.
+
+style.css — 
+1. responsive layout, 
+2. typography, 
+3. CSS Grid,
+4. transitions, 
+5. hover effects.
+
+script.js — 
+1. product rendering, 
+2. category filters, 
+3. search, 
+4. add-to-cart, 
+5. quantity controls,
+6.  cart total.
+
+Extra polish —
+1. mobile menu, 
+2. wishlist, 
+3. quick-view modal, 
+4. and localStorage cart persistence.
